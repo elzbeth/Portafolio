@@ -7,17 +7,22 @@ Soy una UX Designer que busca mejorar la vida de las personas al diseñar experi
 ### LyftMobile
 Replica de la app de Lyft con registro de usuario.
 
-(https://github.com/elzbeth/Sprint03-LyftMobile)
+![Conocer más](https://github.com/elzbeth/Sprint03-LyftMobile)
+
+
 
 ### BusTicket
 Solución para mejorar la experiencia de los usuarios que viajan de la Ciudad de México a Cuernavaca.
 
-(https://github.com/elzbeth/Sprint04-BustTicket)
+![Conocer más](https://github.com/elzbeth/Sprint04-BustTicket)
+
+
+
 
 ### Save The Children México
 Solución para incrementar el radio de conversión de visitantes de la landing page en donadores recurrentes.
 
-(https://github.com/elzbeth/Sprint05-SaveTheChildrenMexico)
+![Conocer más](https://github.com/elzbeth/Sprint05-SaveTheChildrenMexico)
 
 
 ## CONTACTO
